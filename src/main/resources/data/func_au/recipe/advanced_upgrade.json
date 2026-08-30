@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "type": "functionalstorage:tag_without_component",
+      "tag": "functionalstorage:drawer"
+    },
+    "G": { "item": "functionalstorage:gold_upgrade" },
+    "C": { "item": "functionalstorage:copper_upgrade" },
+    "V": { "item": "functionalstorage:void_upgrade" },
+    "X": { "item": "functionalstorage:diamond_upgrade" },
+    "I": { "item": "functionalstorage:iron_downgrade" }
+  },
+  "pattern": [
+    "DGD",
+    "CVX",
+    "DID"
+  ],
+  "result": {
+    "count": 1,
+    "id": "func_au:advanced_upgrade"
+  }
+}

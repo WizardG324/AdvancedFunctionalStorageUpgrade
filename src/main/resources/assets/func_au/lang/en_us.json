@@ -1,0 +1,20 @@
+{
+  "item.func_au.advanced_upgrade": "Advanced Upgrade",
+
+  "func_au.tooltip.advanced_upgrade": "Per-slot limits and voiding",
+  "func_au.tooltip.no_ender": "Does not work in Ender Drawers",
+  "func_au.tooltip.caps_on": "Custom slot limits active",
+  "func_au.tooltip.void_on": "Per-slot voiding active",
+
+  "func_au.gui.tab_limits": "Slot limits",
+  "func_au.gui.tab_limits_fluid": "Tank limits (mB)",
+  "func_au.gui.tab_void": "Per-slot voiding",
+  "func_au.gui.needs_void_upgrade": "Requires a Void Upgrade",
+  "func_au.gui.creative_disabled": "Disabled by the Creative Vending Upgrade",
+  "func_au.gui.caps": "Limits",
+  "func_au.gui.void": "Voiding",
+  "func_au.gui.cap": "Slot limit",
+  "func_au.gui.slot_cap": "Slot Cap: ",
+  "func_au.gui.voids_overflow": "Void Overflow",
+  "func_au.gui.keeps_overflow": "Keep Overflow"
+}

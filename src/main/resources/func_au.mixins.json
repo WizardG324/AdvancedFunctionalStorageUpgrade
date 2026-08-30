@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8.5",
+  "package": "com.wizardg.func_au.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+    "FluidDrawerInfoGuiAddonMixin"
+  ],
+  "mixins": [
+    "BigFluidHandlerMixin",
+    "BigInventoryHandlerMixin",
+    "ControllableDrawerTileMixin",
+    "CustomFluidTankMixin",
+    "DrawerTileMixin"
+  ]
+}
